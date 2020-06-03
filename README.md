@@ -1,2 +1,2 @@
 # Computational_Fluid_Dynamics
-Python code for CFD
+Will come back to this later.  CFD is a long term goal!
